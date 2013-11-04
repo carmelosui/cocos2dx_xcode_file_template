@@ -11,7 +11,7 @@
 
 #include "cocos2d.h"
 
-class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::CCScene
+class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::___VARIABLE_cocos2dxSubclassOption___
 {
 public:
     ___FILEBASENAMEASIDENTIFIER___(){}
