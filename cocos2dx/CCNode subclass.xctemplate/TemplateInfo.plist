@@ -50,6 +50,7 @@
                 <string>CCSprite</string>
                 <string>CCNode</string>
                 <string>CCLayer</string>
+                <string>CCLayerColor</string>
                 <string>CCScene</string>
 			</array>
 		</dict>
